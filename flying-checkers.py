@@ -1,11 +1,3 @@
-
-# Author: Michelle Kelder
-# GitHub username: cottoncandydeluxe
-# Date: 3/9/23
-# Description: Portfolio Project -- Represents a checkerboard, with methods for the users to
-# choose teams, take turns, manipulate the board, capture enemy pieces, and win the game.
-
-
 class Checkers:
     """Represents a checkerboard, with methods for the users to choose teams, take turns,
     manipulate the board, capture enemy pieces, and win the game. This class will communicate
